@@ -4,7 +4,7 @@
 ![Appium](https://img.shields.io/badge/Appium-16B5E5?style=for-the-badge&logo=appium&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-FF5733?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub last commit](https://img.shields.io/github/last-commit/cihat-kose/akakce-appium-robotframework?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/cihat-kose/akakce-appium-robotframework?style=for-the-badge&cacheSeconds=60)
 
 ## 📜 Introduction
 This project is an automated testing framework for the Akakce mobile application, developed using **Appium** and **Robot Framework**. The framework allows automated user actions such as registration, login, and product search on the Akakce platform, supporting both local and remote (BrowserStack) environments.
